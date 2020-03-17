@@ -1,0 +1,2 @@
+include ':XposedDemo'
+include ':XposedHook'
